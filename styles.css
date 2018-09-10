@@ -50,3 +50,19 @@ h1 {
 .main p {
     margin: 20px;
 }
+
+.blog-post {
+    margin: 10px;
+    background-color: #fff;
+    border-style: solid; 
+    border-color: #bcbfc4;
+    border-radius: 3px;
+    border-width: 2px;
+    padding: 10px;
+}
+
+.blog-post img {
+    float: left;
+    margin: 0px 15px 15px 0px;
+}
+
